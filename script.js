@@ -807,6 +807,11 @@
                 id: 9,
                 titulo: "Reunión Metalisteria 2010",
                 imagen: "reunion_meta.jpg"
+            },
+         {
+                id: 9,
+                titulo: "Reunión 2010",
+                imagen: "reunion.jpg"
             }
         ];
 
