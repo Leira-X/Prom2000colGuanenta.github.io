@@ -800,8 +800,13 @@
             },
          {
                 id: 8,
-                titulo: "Metalisteria",
+                titulo: "Metalisteria 2010",
                 imagen: "julian.jpg"
+            },
+         {
+                id: 9,
+                titulo: "Reunión Metalisteria 2010",
+                imagen: "reunion_meta.jpg"
             }
         ];
 
