@@ -846,7 +846,7 @@
          {
                 id: 17,
                 titulo: "Reunión 2025",
-                imagen: "9.jpeg"
+                imagen: "11.jpeg"
             },
          {
                 id: 18,
