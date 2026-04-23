@@ -764,7 +764,7 @@
         // Datos de ejemplo para la galería
         const galeriaFotos = [
             {
-                id: 11,
+                id: 1,
                 titulo: "Especialidad de Sistemas. Imagen proporcionada por (Sandra Milena Moncada)",
                 imagen: "sistemas.jpeg"
             },
