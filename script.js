@@ -801,7 +801,7 @@
          {
                 id: 8,
                 titulo: "Metalisteria 2010",
-                imagen: "julian.jpg"
+                imagen: "Julian.jpg"
             },
          {
                 id: 9,
