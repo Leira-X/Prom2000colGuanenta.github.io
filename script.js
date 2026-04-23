@@ -797,6 +797,11 @@
                 id: 7,
                 titulo: "Metalisteria",
                 imagen: "metalisteria.jpeg"
+            },
+         {
+                id: 8,
+                titulo: "Metalisteria",
+                imagen: "julian.jpg"
             }
         ];
 
