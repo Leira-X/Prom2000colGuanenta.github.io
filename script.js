@@ -857,7 +857,12 @@
                 id: 19,
                 titulo: "Reunión 2025",
                 imagen: "12.jpeg"
-            }
+            },
+         {
+                id: 19,
+                titulo: "Reunión 2010",
+                imagen: "reunion.jpg"
+            },
         ];
 
         // Variables para los filtros activos
