@@ -798,17 +798,17 @@
                 titulo: "Metalisteria",
                 imagen: "metalisteria.jpeg"
             },
-         {
+            {
                 id: 8,
                 titulo: "Metalisteria 2010",
                 imagen: "Julian.jpg"
             },
-         {
+            {
                 id: 9,
                 titulo: "Reunión Metalisteria 2010",
                 imagen: "reunion_meta.jpg"
             },
-         {
+            {
                 id: 9,
                 titulo: "Reunión 2010",
                 imagen: "reunion.jpg"
