@@ -943,6 +943,8 @@
                 });
             });
 
-            // Inicializar galería
-            mostrarGaleria();
+             // ==========  ==========
+    // Mostrar SOLO la sección de estudiantes al cargar la página
+    cambiarSeccion('estudiantes');
+    // ======================================
         });
