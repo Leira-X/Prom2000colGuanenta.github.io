@@ -766,7 +766,7 @@
             {
                 id: 11,
                 titulo: "Especialidad de Sistemas. Imagen proporcionada por (Sandra Milena Moncada)",
-                imagen: "./img/sistemas.jpg"
+                imagen: "sistemas.jpg"
             },
             {
                 id: 2,
