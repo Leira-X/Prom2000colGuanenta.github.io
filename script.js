@@ -809,9 +809,54 @@
                 imagen: "reunion_meta.jpg"
             },
             {
-                id: 9,
-                titulo: "Reunión 2010",
-                imagen: "reunion.jpg"
+                id: 10,
+                titulo: "Reunión 2025",
+                imagen: "2.jpeg"
+            },
+           {
+                id: 11,
+                titulo: "Reunión 2025",
+                imagen: "3.jpeg"
+            },
+         {
+                id: 12,
+                titulo: "Reunión 2025",
+                imagen: "4.jpeg"
+            },
+         {
+                id: 13,
+                titulo: "Reunión 2025",
+                imagen: "5.jpeg"
+            },
+         {
+                id: 14,
+                titulo: "Reunión 2025",
+                imagen: "6.jpeg"
+            },
+         {
+                id: 15,
+                titulo: "Reunión 2025",
+                imagen: "7.jpeg"
+            },
+         {
+                id: 16,
+                titulo: "Reunión 2025",
+                imagen: "8.jpeg"
+            },
+         {
+                id: 17,
+                titulo: "Reunión 2025",
+                imagen: "9.jpeg"
+            },
+         {
+                id: 18,
+                titulo: "Reunión 2025",
+                imagen: "10.jpeg"
+            },
+         {
+                id: 19,
+                titulo: "Reunión 2025",
+                imagen: "12.jpeg"
             }
         ];
 
