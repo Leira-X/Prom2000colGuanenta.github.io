@@ -771,32 +771,32 @@
             {
                 id: 2,
                 titulo: "Especialidad de Sistemas.",
-                imagen: "img/sistemas2.jpeg"
+                imagen: "sistemas2.jpeg"
             },
             {
                 id: 3,
                 titulo: "Comparsa",
-                imagen: "img/comparsa.jpg"
+                imagen: "comparsa.jpg"
             },
             {
                 id: 4,
                 titulo: "Grado",
-                imagen: "img/grado.jpeg"
+                imagen: "grado.jpeg"
             },
             {
                 id: 5,
                 titulo: "Grado",
-                imagen: "img/1.jpg"
+                imagen: "1.jpg"
             },
             {
                 id: 6,
                 titulo: "Mosaico Prom 2000",
-                imagen: "img/mosaico.jpg"
+                imagen: "mosaico.jpg"
             },
             {
                 id: 7,
                 titulo: "Metalisteria",
-                imagen: "img/metalisteria.jpeg"
+                imagen: "metalisteria.jpeg"
             }
         ];
 
@@ -944,7 +944,7 @@
             });
 
              // ==========  ==========
-    // Mostrar SOLO la sección de estudiantes al cargar la página
-    cambiarSeccion('estudiantes');
-    // ======================================
+            // Mostrar SOLO la sección de estudiantes al cargar la página
+            cambiarSeccion('estudiantes');
+            // ======================================
         });
