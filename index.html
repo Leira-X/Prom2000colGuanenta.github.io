@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Egresados 2000 - Colegio San José de Guanenta</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo-container">
+                <div class="logo">
+                    <img src="img/escudo.png" alt="Logo Colegio" class="logo-img">
+                </div>
+                <h1 class="logo-text">Colegio San José de Guanenta</h1>
+            </div>
+            <p class="subtitle">San Gil, Santander - Fundado en 1824</p>
+            <p class="promocion">Promoción 2000 - 26 Años de Éxitos</p>
+        </div>
+    </header>
+
+    <nav class="nav-container">
+        <div class="container">
+            <ul class="nav-menu">
+                <li class="nav-item">
+                    <a href="#" class="nav-link active" data-section="estudiantes">
+                        <i class="fas fa-users"></i> Nuestros Egresados
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a href="#" class="nav-link" data-section="galeria">
+                        <i class="fas fa-images"></i> Galería de Fotos
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="main-content">
+            <!-- Filtros Laterales -->
+            <aside class="filtros-sidebar">
+                <div class="filtro-group">
+                    <h3><i class="fas fa-filter"></i> Filtros</h3>
+                    
+                    <h4><i class="fas fa-users"></i> Por Grado</h4>
+                    <div class="filtros-list">
+                        <button class="filtro-btn active" data-filtro="grado" data-valor="todos">
+                            <i class="fas fa-layer-group"></i> Todos los grados
+                        </button>
+                        <button class="filtro-btn" data-filtro="grado" data-valor="11.1">
+                            <i class="fas fa-user-graduate"></i> Grado 11.1
+                        </button>
+                        <button class="filtro-btn" data-filtro="grado" data-valor="11.2">
+                            <i class="fas fa-user-graduate"></i> Grado 11.2
+                        </button>
+                        <button class="filtro-btn" data-filtro="grado" data-valor="11.3">
+                            <i class="fas fa-user-graduate"></i> Grado 11.3
+                        </button>
+                        <button class="filtro-btn" data-filtro="grado" data-valor="11.4">
+                            <i class="fas fa-user-graduate"></i> Grado 11.4
+                        </button>
+                        <button class="filtro-btn" data-filtro="grado" data-valor="11.5">
+                            <i class="fas fa-user-graduate"></i> Grado 11.5
+                        </button>
+                        <button class="filtro-btn" data-filtro="grado" data-valor="11.6">
+                            <i class="fas fa-user-graduate"></i> Grado 11.6
+                        </button>
+                    </div>
+                </div>
+                
+                <div class="filtro-group">
+                    <h4><i class="fas fa-graduation-cap"></i> Por Especialidad</h4>
+                    <div class="filtros-list">
+                        <button class="filtro-btn active" data-filtro="especialidad" data-valor="todos">
+                            <i class="fas fa-star"></i> Todas
+                        </button>
+                        <button class="filtro-btn" data-filtro="especialidad" data-valor="Sistemas">
+                            <i class="fas fa-laptop-code"></i> Sistemas
+                        </button>
+                        <button class="filtro-btn" data-filtro="especialidad" data-valor="Dibujo">
+                            <i class="fas fa-pencil-alt"></i> Dibujo
+                        </button>
+                        <button class="filtro-btn" data-filtro="especialidad" data-valor="Electricidad">
+                            <i class="fas fa-bolt"></i> Electricidad
+                        </button>
+                        <button class="filtro-btn" data-filtro="especialidad" data-valor="Metalisteria">
+                            <i class="fas fa-tools"></i> Metalistería
+                        </button>
+                        <button class="filtro-btn" data-filtro="especialidad" data-valor="Mecanica">
+                            <i class="fas fa-cog"></i> Mecánica
+                        </button>
+                        <button class="filtro-btn" data-filtro="especialidad" data-valor="Ebanisteria">
+                            <i class="fas fa-hammer"></i> Ebanistería
+                        </button>
+                        <button class="filtro-btn" data-filtro="especialidad" data-valor="Fundicion">
+                            <i class="fas fa-hammer"></i> Fundición
+                        </button>
+                        <button class="filtro-btn" data-filtro="especialidad" data-valor="Clasicos">
+                            <i class="fas fa-book"></i> Clásicos
+                        </button>
+                    </div>
+                </div>
+                <div class="filtro-group">
+                   <div>
+                        <h4><i class="fas fa-graduation-cap"></i> Himno del Colegio</h4>
+                        <button class="filtro-btn" data-valor="Himno"
+                            onclick="window.open('https://www.youtube.com/watch?v=iO3ipqcf2oU', '_blank')">
+                            <i class="fas fa-hammer"></i> Himno
+                        </button>
+                    </div>
+                     
+                </div>
+            </aside>
+
+            <!-- Contenido Principal -->
+            <main class="content-area">
+                <!-- Sección de Estudiantes -->
+                <section id="estudiantes-section">
+                    <h2 class="section-title"><i class="fas fa-users"></i> Nuestros Egresados</h2>
+                    
+                    <div class="contador">
+                        Mostrando <span id="contador-estudiantes">0</span> de 30 egresados
+                    </div>
+                    
+                    <div class="estudiantes-container" id="estudiantes-container">
+                        <!-- Los estudiantes se cargarán aquí mediante JavaScript -->
+                    </div>
+                </section>
+                
+                <!-- Sección de Galería -->
+                <section id="galeria-section">
+                    <h2 class="section-title"><i class="fas fa-images"></i> Galería de Fotos</h2>
+                    
+                    <div class="galeria-container" id="galeria-container">
+                        <!-- Las fotos de la galería se cargarán aquí mediante JavaScript -->
+                    </div>
+                </section>
+            </main>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">Colegio San José de Guanenta</div>
+                <p class="footer-text">Recordando con cariño nuestros años de estudio y amistad en el Colegio San José de Guanenta, San Gil, Santander. Unidos por una educación que forjó nuestro futuro.</p>
+                <div class="social-links">
+                    <a href="#" class="social-link"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" class="social-link"><i class="fab fa-instagram"></i></a>
+                    <a href="#" class="social-link"><i class="fab fa-twitter"></i></a>
+                    <a href="#" class="social-link"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+                <p class="copyright">© 2026 Promoción 2000 - </p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
