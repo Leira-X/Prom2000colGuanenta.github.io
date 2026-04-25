@@ -957,7 +957,7 @@
                     <img src="${foto.imagen}" alt="${foto.titulo}" class="galeria-img" loading="lazy">
                     <div class="galeria-overlay">
                         <div class="galeria-title">${foto.titulo}</div>
-                        <p class="estudiante-descripcion">${estudiante.descripcion}</p>
+                        <p class="estudiante-descripcion">${foto.descripcion}</p>
                         <div class="galeria-desc">Ver detalles</div>
                     </div>
                 </a>
