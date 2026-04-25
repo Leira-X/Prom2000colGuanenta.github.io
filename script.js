@@ -784,8 +784,7 @@
             {
                 id: 1,
                 titulo: "Especialidad de Sistemas. Imagen proporcionada por (Sandra Milena Moncada)",
-                imagen: "sistemas.jpg",
-                descripcion: "Foto tomada por el profesosr Henrry Durán en el año 2000."
+                imagen: "sistemas.jpg"
             },
             {
                 id: 2,
