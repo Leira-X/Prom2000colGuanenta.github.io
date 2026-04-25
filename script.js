@@ -667,7 +667,7 @@
                 nombre: "Mary Luz Rodriguez Aguilar ",
                 grado: "11.1",
                 especialidad: "Dibujo",
-                foto: "",
+                foto: "luto.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 fallecido: true,
             },
@@ -775,8 +775,8 @@
                 especialidad: "Fundicion",
                 foto: "",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
-                fallecido: true,
-            }
+                
+            },
         ];
 
         // Datos de ejemplo para la galería
