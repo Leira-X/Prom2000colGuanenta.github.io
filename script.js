@@ -750,7 +750,7 @@
                 especialidad: "Mecanica",
                 foto: "",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
-            }
+            },
             {
                 id: 27,
                 nombre: "Jesus Uribe",
