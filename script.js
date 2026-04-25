@@ -668,7 +668,8 @@
                 grado: "11.1",
                 especialidad: "Dibujo",
                 foto: "",
-                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                fallecido: true,
             },
             {
                 id: 27,
@@ -747,6 +748,14 @@
                 nombre: "Milton Carvajal",
                 grado: "11.1",
                 especialidad: "Mecanica",
+                foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
+            }
+            {
+                id: 27,
+                nombre: "Jesus Uribe",
+                grado: "11.1",
+                especialidad: "Ebanisteria",
                 foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000031-f1df2f1df4/700/chejo.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
@@ -759,7 +768,7 @@
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 fallecido: true,
             },
-         {
+            {
                 id: 27,
                 nombre: "Josue Aparicio",
                 grado: "11.1",
