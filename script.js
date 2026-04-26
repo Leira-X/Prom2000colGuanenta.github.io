@@ -851,8 +851,9 @@
                 nombre: "Alvaro Triana Muñoz",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "luto.png",
+                foto: "luto.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                fallecido: true,
                 
             },
             {
