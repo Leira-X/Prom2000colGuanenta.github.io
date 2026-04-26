@@ -1,4 +1,4 @@
-// Datos de  los estudiantes
+// Datos estudiantes
         const estudiantes = [
             {
                 id: 1,
@@ -297,7 +297,7 @@
                 nombre: "Javier Ricardo Solano",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000081-e2216e2218/700/ricardo_solano.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -498,7 +498,7 @@
                 nombre: "Oscar Ivan Sierra Corredor",
                 grado: "11.5",
                 especialidad: "Electricidad",
-                foto: "",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000077-5517b5517e/700/sierra.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -689,10 +689,26 @@
             },
             {
                 id: 27,
+                nombre: "Milena Perez",
+                grado: "11.1",
+                especialidad: "Dibujo",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000075-9882598827/700/milena.webp?ph=fda83c514b",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
+            },
+            {
+                id: 27,
                 nombre: "Nestor Rico",
                 grado: "11.1",
                 especialidad: "Dibujo",
                 foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
+            },
+            {
+                id: 27,
+                nombre: "Myriam Suarez",
+                grado: "11.1",
+                especialidad: "Dibujo",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000079-2509125092/700/myriam.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -715,8 +731,8 @@
                 id: 27,
                 nombre: "Juan Pablo Lopez Mancilla",
                 grado: "11.1",
-                especialidad: "Macanica",
-                foto: "",
+                especialidad: "Mecanica",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000087-6aab96aaba/700/juanpablo_lopez.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -753,6 +769,14 @@
             },
             {
                 id: 27,
+                nombre: "Willian Contreras",
+                grado: "11.1",
+                especialidad: "Mecanica",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000083-8be618be63/700/willian.webp?ph=fda83c514b",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
+            },
+            {
+                id: 27,
                 nombre: "Jesus Uribe",
                 grado: "11.1",
                 especialidad: "Ebanisteria",
@@ -774,6 +798,15 @@
                 grado: "11.1",
                 especialidad: "Fundicion",
                 foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000039-c1741c1742/700/claudia.webp?ph=fda83c514b",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Sergio Parra",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000085-e9b04e9b06/700/sergio_parra.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -833,28 +866,28 @@
             },
             {
                 id: 27,
-                nombre: "",
+                nombre: "Diana Carolina Duran Ayala",
                 grado: "11.1",
                 especialidad: "Fundicion",
-                foto: "",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000089-8e0688e06a/700/diana_duran.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
             {
                 id: 27,
-                nombre: "",
+                nombre: "Yuranny Mendez",
                 grado: "11.1",
                 especialidad: "Fundicion",
-                foto: "",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000091-17ffc17ffd/700/yaranymendez.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
             {
                 id: 27,
-                nombre: "",
+                nombre: "Jairo Rincon",
                 grado: "11.1",
                 especialidad: "Fundicion",
-                foto: "",
+                foto: "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/239433046_10159363585368290_1866587072667974667_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=VwD3U6dWDewQ7kNvwF_E8My&_nc_oc=Adoyio-REFa2WlqS_VM-IESd3MJMz2D82iOyPYvPJQxo361oENZejgD2D0JWWHSJ2Wg&_nc_zt=23&_nc_ht=scontent.feoh2-1.fna&_nc_gid=9Gl2MLbcP-izwLuM-WeHkQ&_nc_ss=7b289&oh=00_Af1_mQ1foJKR4gxVjb9t0SkbSsclau8jQqs-8hNW1-eJtw&oe=69F3D11D",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -878,7 +911,7 @@
             },
         ];
 
-        // Datos de ejemplo para la galería
+        // Datos galería
         const galeriaFotos = [
             {
                 id: 1,
@@ -1016,7 +1049,7 @@
 
                 card.className = 'estudiante-card';
 
-                // 🔥 AQUÍ está el cambio
+                // estudiante fallecido
                 if (estudiante.fallecido) {
                     card.classList.add('fallecido');
                 }
@@ -1039,7 +1072,7 @@
         }
 
     // ===============================
-    // FUNCIÓN GALERÍA (ARREGLADA)
+    // FUNCIÓN GALERÍA
     // ===============================
     function mostrarGaleria() {
         const container = document.getElementById('galeria-container');
