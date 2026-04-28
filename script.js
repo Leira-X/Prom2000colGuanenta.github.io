@@ -86,7 +86,7 @@
             },
             {
                 id: 11,
-                nombre: "Fleydei Manuel Lozano",
+                nombre: "Fleyder Manuel Lozano",
                 grado: "11.5",
                 especialidad: "Sistemas",
                 foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
@@ -439,7 +439,7 @@
             },
             {
                 id: 55,
-                nombre: "Omar David Perez",
+                nombre: "Omar Javier Perez",
                 grado: "11.3",
                 especialidad: "Electricidad",
                 foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
@@ -648,7 +648,7 @@
             },
             {
                 id: 27,
-                nombre: "Alexander Cacho Vargas",
+                nombre: "Alexander Camacho Vargas",
                 grado: "11.5",
                 especialidad: "Metalisteria",
                 foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
@@ -1022,7 +1022,7 @@
             },
             {
                 id: 27,
-                nombre: "Carlos Augusto Calderon",
+                nombre: "Carlos Augusto Calderon Aguilar",
                 grado: "11.1",
                 especialidad: "Clasicos",
                 foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
@@ -1130,7 +1130,7 @@
             },
             {
                 id: 27,
-                nombre: "German Castillo",
+                nombre: "German Castillo Supelano",
                 grado: "11.1",
                 especialidad: "Clasicos",
                 foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
@@ -1157,7 +1157,7 @@
             },
             {
                 id: 27,
-                nombre: "Sergio Echeverri",
+                nombre: "Sergio Fernando Gómez Carreño",
                 grado: "11.1",
                 especialidad: "Ebanisteria",
                 foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
@@ -1184,9 +1184,9 @@
             },
             {
                 id: 27,
-                nombre: "",
+                nombre: "Jorge Tangua",
                 grado: "11.1",
-                especialidad: "Fundicion",
+                especialidad: "Mecanica",
                 foto: "",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
