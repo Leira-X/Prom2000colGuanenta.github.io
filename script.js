@@ -1193,9 +1193,9 @@
             },
             {
                 id: 27,
-                nombre: "",
+                nombre: "Mercedes Amaya",
                 grado: "11.1",
-                especialidad: "Fundicion",
+                especialidad: "",
                 foto: "",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
