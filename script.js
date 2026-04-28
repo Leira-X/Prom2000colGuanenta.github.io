@@ -1431,8 +1431,8 @@
             },
             {
                 id: 23,
-                titulo: "",
-                imagen: ""
+                titulo: "2018. Fallece Lady María Rodríguez Flórez",
+                imagen: "lady_profesora.jpeg"
             },
             {
                 id: 23,
