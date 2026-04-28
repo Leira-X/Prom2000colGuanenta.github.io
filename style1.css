@@ -1,4 +1,5 @@
 /* --- Estilos Neón + Glassmorphism --- */
+/* Versión: Sidebar con scroll independiente + Corrección de layout */
 
 :root {
     --bg-main: #0a0f1f;
@@ -11,7 +12,6 @@
     --transition: all 0.35s ease-in-out;
     --gradient: linear-gradient(135deg, var(--neon-purple), var(--neon-blue));
     --shadow-neon: 0 0 15px rgba(0, 255, 255, 0.6), 0 0 30px rgba(155, 77, 255, 0.5);
-    font-family: 'Poppins', sans-serif;
 }
 
 * {
@@ -25,15 +25,18 @@ body {
     color: var(--text-light);
     min-height: 100vh;
     overflow-x: hidden;
+    font-family: 'Poppins', sans-serif;
 }
 
-/* ----- Layout ----- */
+/* --- Layout Base --- */
 
 .container {
     width: 95%;
     max-width: 1350px;
-    margin: auto;
+    margin: 0 auto;
 }
+
+/* --- Header --- */
 
 header {
     text-align: center;
@@ -49,6 +52,7 @@ header::after {
     inset: 0;
     background: url('https://assets.codepen.io/1462889/glow.svg') center/cover no-repeat;
     opacity: 0.12;
+    pointer-events: none;
 }
 
 .logo-container {
@@ -100,7 +104,7 @@ header::after {
     text-shadow: var(--shadow-neon);
 }
 
-/* ----- Navegación ----- */
+/* --- Navegación --- */
 
 .nav-container {
     background: var(--glass-light);
@@ -125,6 +129,7 @@ header::after {
     text-decoration: none;
     transition: var(--transition);
     display: flex;
+    align-items: center;
     gap: 8px;
 }
 
@@ -135,7 +140,7 @@ header::after {
     box-shadow: var(--shadow-neon);
 }
 
-/* ----- Main Layout ----- */
+/* --- Main Content --- */
 
 .main-content {
     display: flex;
@@ -144,10 +149,11 @@ header::after {
     flex-wrap: wrap;
 }
 
-/* Sidebar Filtros */
+/* --- Sidebar Filtros (CON SCROLL INDEPENDIENTE) --- */
 
 .filtros-sidebar {
     width: 280px;
+    flex-shrink: 0;
     background: var(--glass-light);
     backdrop-filter: blur(18px);
     padding: 1.8rem;
@@ -156,7 +162,31 @@ header::after {
     position: sticky;
     top: 20px;
     align-self: flex-start;
+    max-height: calc(100vh - 40px);
+    overflow-y: auto;
+    scrollbar-width: thin;
 }
+
+/* Scrollbar personalizada (Chrome, Edge, Safari) */
+.filtros-sidebar::-webkit-scrollbar {
+    width: 6px;
+}
+
+.filtros-sidebar::-webkit-scrollbar-track {
+    background: var(--glass-light);
+    border-radius: 10px;
+}
+
+.filtros-sidebar::-webkit-scrollbar-thumb {
+    background: var(--neon-blue);
+    border-radius: 10px;
+}
+
+.filtros-sidebar::-webkit-scrollbar-thumb:hover {
+    background: var(--neon-purple);
+}
+
+/* --- Filtros internos --- */
 
 .filtro-group h3 {
     color: var(--neon-blue);
@@ -164,7 +194,7 @@ header::after {
     font-size: 1.3rem;
 }
 
-h4 {
+.filtro-group h4 {
     margin: 1.2rem 0 0.8rem;
     color: var(--neon-purple);
 }
@@ -184,6 +214,7 @@ h4 {
     font-weight: 700;
     cursor: pointer;
     transition: var(--transition);
+    text-align: left;
 }
 
 .filtro-btn:hover,
@@ -193,13 +224,38 @@ h4 {
     box-shadow: var(--shadow-neon);
 }
 
-/* Cards Estudiantes */
+/* --- Área de contenido principal --- */
+
+.content-area {
+    flex: 1;
+    min-width: 0;
+    overflow-x: hidden;
+}
+
+#estudiantes-section,
+#galeria-section {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+/* --- Contador de estudiantes --- */
+
+.contador {
+    background: rgba(0, 255, 255, 0.1);
+    padding: 0.5rem 1rem;
+    border-radius: 30px;
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    font-size: 0.9rem;
+    border: 1px solid var(--neon-blue);
+}
+
+/* --- Cards de Estudiantes --- */
 
 .estudiantes-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
     gap: 30px;
-    flex: 1;
 }
 
 .estudiante-card {
@@ -209,7 +265,7 @@ h4 {
     backdrop-filter: blur(12px);
     overflow: hidden;
     transition: var(--transition);
-    box-shadow: 0 0 10px rgba(0,255,255,0.1);
+    box-shadow: 0 0 10px rgba(0, 255, 255, 0.1);
 }
 
 .estudiante-card:hover {
@@ -221,6 +277,7 @@ h4 {
     width: 100%;
     height: 230px;
     object-fit: contain;
+    background: rgba(0, 0, 0, 0.3);
     transition: var(--transition);
 }
 
@@ -228,10 +285,19 @@ h4 {
     transform: scale(1.08);
 }
 
+.estudiante-info {
+    padding: 1rem;
+}
+
 .estudiante-nombre {
     font-size: 1.3rem;
     font-weight: 800;
     color: var(--neon-blue);
+    margin-bottom: 0.5rem;
+}
+
+.estudiante-meta {
+    margin-bottom: 0.5rem;
 }
 
 .estudiante-meta span {
@@ -240,14 +306,45 @@ h4 {
     border-radius: 10px;
     font-size: 0.75rem;
     font-weight: 700;
+    display: inline-block;
 }
 
 .estudiante-descripcion {
     font-size: 0.9rem;
     color: var(--text-muted);
+    line-height: 1.4;
 }
 
-/* GALERÍA */
+/* --- Párrafo de Historia --- */
+
+.historia-texto {
+    background: var(--glass-light);
+    padding: 1.8rem;
+    border-radius: 20px;
+    margin: 1rem 0 2rem 0;
+    font-size: 1.05rem;
+    line-height: 1.7;
+    color: var(--text-light);
+    text-align: justify;
+    border-left: 4px solid var(--neon-blue);
+    box-shadow: 0 0 10px rgba(0, 255, 255, 0.1);
+    transition: var(--transition);
+    width: 100%;
+    max-width: 100%;
+    word-wrap: break-word;
+}
+
+.historia-texto:hover {
+    box-shadow: var(--shadow-neon);
+    transform: translateY(-3px);
+}
+
+.historia-texto strong {
+    color: var(--neon-blue);
+    font-weight: 700;
+}
+
+/* --- Galería de Fotos --- */
 
 .galeria-container {
     display: grid;
@@ -265,12 +362,14 @@ h4 {
     overflow: hidden;
     transition: var(--transition);
     background: var(--glass-light);
-    border: var(--border-glow);
+    border: 1px solid rgba(0, 255, 255, 0.3);
+    aspect-ratio: 1 / 1;
 }
+
 .galeria-item img {
     width: 100%;
     height: 100%;
-    object-fit: contain;
+    object-fit: cover;
 }
 
 .galeria-item:hover {
@@ -278,7 +377,7 @@ h4 {
     box-shadow: var(--shadow-neon);
 }
 
-/* ----- Footer ----- */
+/* --- Footer --- */
 
 footer {
     background: var(--glass-light);
@@ -286,6 +385,7 @@ footer {
     backdrop-filter: blur(18px);
     border-top: 1px solid var(--neon-purple);
     text-align: center;
+    margin-top: 2rem;
 }
 
 .footer-logo {
@@ -296,6 +396,19 @@ footer {
     padding: 0.3rem 1rem;
     border-radius: 12px;
     box-shadow: var(--shadow-neon);
+    display: inline-block;
+    margin-bottom: 1rem;
+}
+
+.footer-text {
+    max-width: 600px;
+    margin: 0 auto 1.5rem;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+}
+
+.social-links {
+    margin-bottom: 1.5rem;
 }
 
 .social-link {
@@ -308,26 +421,53 @@ footer {
     margin: 0 8px;
     background: var(--glass-light);
     transition: var(--transition);
+    text-decoration: none;
+    color: var(--text-light);
 }
 
 .social-link:hover {
     background: var(--gradient);
     box-shadow: var(--shadow-neon);
     transform: translateY(-5px);
+    color: #000;
 }
 
-/* RESPONSIVE para móviles y tablets */
+.copyright {
+    font-size: 0.8rem;
+    color: var(--text-muted);
+}
+
+/* --- Utilidades --- */
+
+a:visited {
+    color: inherit;
+}
+
+/* --- Estado fallecido --- */
+.estudiante-card.fallecido .estudiante-img {
+    filter: grayscale(70%);
+}
+
+.estudiante-card.fallecido:hover .estudiante-img {
+    filter: grayscale(100%);
+}
+
+/* --- Responsive Design --- */
 
 /* Tablets (≤ 992px) */
 @media (max-width: 992px) {
     .main-content {
         flex-direction: column;
     }
+    
     .filtros-sidebar {
         width: 100%;
         position: relative;
         top: 0;
+        max-height: none;
+        overflow-y: visible;
     }
+    
     .nav-menu {
         gap: 1rem;
     }
@@ -379,6 +519,12 @@ footer {
     header {
         padding: 2rem 1rem;
     }
+    
+    .historia-texto {
+        padding: 1.2rem;
+        font-size: 0.95rem;
+        line-height: 1.6;
+    }
 }
 
 /* Móviles pequeños (≤ 576px) */
@@ -429,6 +575,12 @@ footer {
         padding: 8px 12px;
         font-size: 0.85rem;
     }
+    
+    .historia-texto {
+        padding: 1rem;
+        font-size: 0.9rem;
+        margin: 0.8rem 0 1.5rem 0;
+    }
 }
 
 /* Extra pequeños (≤ 400px) */
@@ -445,13 +597,4 @@ footer {
         width: 50px;
         height: 50px;
     }
-}
-
-/* Regla adicional */
-.estudiante-card.fallecido:hover .estudiante-img {
-    filter: grayscale(100%);
-}
-
-a:visited {
-    color: inherit;
 }
