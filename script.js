@@ -418,7 +418,7 @@
                 nombre: "Ariel Fernández Gualdrón",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000123-32b3532b36/700/ariel.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -440,6 +440,14 @@
             {
                 id: 55,
                 nombre: "Omar David Perez",
+                grado: "11.3",
+                especialidad: "Electricidad",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
+            },
+            {
+                id: 55,
+                nombre: "Aminta Lasprilla Suarez",
                 grado: "11.3",
                 especialidad: "Electricidad",
                 foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
@@ -891,7 +899,7 @@
                 nombre: "Alvaro Triana Muñoz",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "luto.png",
+                foto: "luto.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1061,7 +1069,7 @@
                 id: 27,
                 nombre: "Andrea Reyes",
                 grado: "11.1",
-                especialidad: "",
+                especialidad: "Clasicos",
                 foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000109-43a3d43a3f/700/andrea.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
@@ -1077,9 +1085,18 @@
             },
             {
                 id: 27,
+                nombre: "Jose Luis Suarez",
+                grado: "11.1",
+                especialidad: "Ebanisteria",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
                 nombre: "Deysi Parada",
                 grado: "11.1",
-                especialidad: "",
+                especialidad: "Fundicion",
                 foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000111-4d3d54d3d7/700/deysi_parada.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
@@ -1104,6 +1121,96 @@
             },
             {
                 id: 27,
+                nombre: "Sandra Milena Garrido Gelves",
+                grado: "11.1",
+                especialidad: "Clasicos",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000121-ed7cbed7cd/700/sandra_garrido.webp?ph=fda83c514b",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "German Castillo",
+                grado: "11.1",
+                especialidad: "Clasicos",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Danny Bueno",
+                grado: "11.1",
+                especialidad: "",
+                foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Isabel (chabela)",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Sergio Echeverri",
+                grado: "11.1",
+                especialidad: "Ebanisteria",
+                foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Edinson Cogollo",
+                grado: "11.1",
+                especialidad: "",
+                foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Isabel Cogollo",
+                grado: "11.1",
+                especialidad: "",
+                foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
                 nombre: "",
                 grado: "11.1",
                 especialidad: "Fundicion",
@@ -1147,6 +1254,52 @@
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
+            {
+                id: 27,
+                nombre: "",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+
         ];
 
         // Datos galería
@@ -1195,6 +1348,11 @@
                 id: 9,
                 titulo: "Reunión Metalisteria 2010",
                 imagen: "reunion_meta.jpg"
+            },
+            {
+                id: 10,
+                titulo: "Reunión Secreta",
+                imagen: "reunion20xx.jpg"
             },
             {
                 id: 10,
@@ -1247,11 +1405,27 @@
                 imagen: "12.jpeg"
             },
          {
-                id: 19,
+                id: 20,
                 titulo: "Reunión 2010",
                 imagen: "reunion.jpg"
             },
+            {
+                id: 21,
+                titulo: "2023. Fallece Gerardo Vesga Rueda",
+                imagen: "gerardo.jpeg"
+            },
+            {
+                id: 22,
+                titulo: "2020. Fallece Alvaro Triana Muñoz",
+                imagen: "triana.jpeg"
+            },
+            {
+                id: 23,
+                titulo: "2021. Fallece Sergio Ivan Amaya Murillo",
+                imagen: "amaya.jpeg"
+            },
         ];
+        
 
         // Variables para los filtros activos
         let filtroGrado = 'todos';
