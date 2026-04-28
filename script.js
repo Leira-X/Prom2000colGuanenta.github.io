@@ -66,7 +66,7 @@
                 grado: "11.4",
                 especialidad: "Sistemas",
                 foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
-                descripcion: "Destacado en historia y geografía. Hoy es historiador y guía turístico en San Gil."
+                descripcion: "Administrador Público Especialista en Gestión del TTHH."
             },
             {
                 id: 9,
@@ -1187,7 +1187,7 @@
                 nombre: "Jorge Tangua",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1196,7 +1196,7 @@
                 nombre: "Mercedes Amaya",
                 grado: "11.1",
                 especialidad: "",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
