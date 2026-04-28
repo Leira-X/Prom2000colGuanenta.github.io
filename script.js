@@ -1142,7 +1142,7 @@
                 nombre: "Danny Bueno",
                 grado: "11.1",
                 especialidad: "",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1151,7 +1151,7 @@
                 nombre: "Isabel (chabela)",
                 grado: "11.1",
                 especialidad: "Fundicion",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1160,7 +1160,7 @@
                 nombre: "Sergio Echeverri",
                 grado: "11.1",
                 especialidad: "Ebanisteria",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1169,7 +1169,7 @@
                 nombre: "Edinson Cogollo",
                 grado: "11.1",
                 especialidad: "",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1178,7 +1178,7 @@
                 nombre: "Isabel Cogollo",
                 grado: "11.1",
                 especialidad: "",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1359,52 +1359,52 @@
                 titulo: "Reunión 2025",
                 imagen: "2.jpeg"
             },
-           {
+            {
                 id: 11,
                 titulo: "Reunión 2025",
                 imagen: "3.jpeg"
             },
-         {
+            {
                 id: 12,
                 titulo: "Reunión 2025",
                 imagen: "4.jpeg"
             },
-         {
+            {
                 id: 13,
                 titulo: "Reunión 2025",
                 imagen: "5.jpeg"
             },
-         {
+            {
                 id: 14,
                 titulo: "Reunión 2025",
                 imagen: "6.jpeg"
             },
-         {
+            {
                 id: 15,
                 titulo: "Reunión 2025",
                 imagen: "7.jpeg"
             },
-         {
+            {
                 id: 16,
                 titulo: "Reunión 2025",
                 imagen: "8.jpeg"
             },
-         {
+            {
                 id: 17,
                 titulo: "Reunión 2025",
                 imagen: "11.jpeg"
             },
-         {
+            {
                 id: 18,
                 titulo: "Reunión 2025",
                 imagen: "10.jpeg"
             },
-         {
+            {
                 id: 19,
                 titulo: "Reunión 2025",
                 imagen: "12.jpeg"
             },
-         {
+            {
                 id: 20,
                 titulo: "Reunión 2010",
                 imagen: "reunion.jpg"
@@ -1423,6 +1423,16 @@
                 id: 23,
                 titulo: "2021. Fallece Sergio Ivan Amaya Murillo",
                 imagen: "amaya.jpeg"
+            },
+            {
+                id: 23,
+                titulo: "Profesor Orlando Diaz",
+                imagen: "orlando.jfif"
+            },
+            {
+                id: 23,
+                titulo: "2021. Fallece Sergio Ivan Amaya Murillo",
+                imagen: ""
             },
         ];
         
