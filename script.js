@@ -57,7 +57,7 @@
                 nombre: "Diana Carolina Galvis",
                 grado: "11.4",
                 especialidad: "Sistemas",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Participante del grupo de danzas folclóricas. Actualmente es docente de primaria."
             },
             {
@@ -65,7 +65,7 @@
                 nombre: "Uriel Oswaldo Gómez Acosta",
                 grado: "11.4",
                 especialidad: "Sistemas",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en historia y geografía. Hoy es historiador y guía turístico en San Gil."
             },
             {
@@ -89,7 +89,7 @@
                 nombre: "Fleydei Manuel Lozano",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -97,7 +97,7 @@
                 nombre: "Erimer Mancilla Ríos",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -105,7 +105,7 @@
                 nombre: "Fredy Mayorga",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -113,7 +113,7 @@
                 nombre: "Xiomara Navas Castellanos",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -121,7 +121,7 @@
                 nombre: "Víctor Manuel Pizza",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -153,7 +153,7 @@
                 nombre: "Yesid Alexander Sánchez",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "h",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -169,7 +169,7 @@
                 nombre: "Nohora Alejandra Guerrero",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -225,7 +225,7 @@
                 nombre: "Liliana Sarmiento",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -233,7 +233,7 @@
                 nombre: "Olga Urrea",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -241,7 +241,7 @@
                 nombre: "Sergio Yhair Rodríguez",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -249,7 +249,7 @@
                 nombre: "Andres Mauricio Rodríguez",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -257,7 +257,7 @@
                 nombre: "Edwin Carvajal",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -273,7 +273,7 @@
                 nombre: "Jerson Albeiro Ramirez Carreño",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -289,7 +289,7 @@
                 nombre: "Willian Fernando Muñoz",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -346,7 +346,7 @@
                 nombre: "Omar David Moreno Clavijo",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -354,7 +354,7 @@
                 nombre: "Sergio Alexander Bayona Gomez",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -362,7 +362,7 @@
                 nombre: "Cristian Humberto Gonzalez",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -378,7 +378,7 @@
                 nombre: "Sergio Ivan Millan",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -386,7 +386,7 @@
                 nombre: "Sandra Milena Ardila Vera",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/651743433_10236981253564643_2578511022668990995_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=53a332&_nc_ohc=7Za-WOODvvMQ7kNvwGp4UOq&_nc_oc=AdqsOgvaH1Ykm8iGNSLjTm7uksX42L-za_BpvMQXCMiIikg7tp27RlCbdhtfj99hebQ&_nc_zt=23&_nc_ht=scontent.feoh2-1.fna&_nc_gid=w8wQRnywXhzQ-gBS9Nk_rw&_nc_ss=7a389&oh=00_Af2vkt0PuRVohQe_83TCIZkl6DIpMuOVODMR8kp-ztGugw&oe=69EAD946",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000119-3d3a23d3a4/700/sandra_ardila.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -394,7 +394,7 @@
                 nombre: "Idalina Gomez",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -402,7 +402,7 @@
                 nombre: "Viviana",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -410,7 +410,7 @@
                 nombre: "Sandra Aparicio",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -418,7 +418,7 @@
                 nombre: "Ariel Fernández Gualdrón",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -426,7 +426,7 @@
                 nombre: "Mauricio",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -434,7 +434,7 @@
                 nombre: "Nestor",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -442,7 +442,7 @@
                 nombre: "Omar David Perez",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -458,7 +458,7 @@
                 nombre: "Paola Andrea Rodriguez",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -466,7 +466,7 @@
                 nombre: "Yurani",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -474,7 +474,7 @@
                 nombre: "Jose Julian Gomez Gomez",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/484476928_1255600909346871_6984562759775698786_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=7b2446&_nc_ohc=BAVDYaZ_doIQ7kNvwFRSyKZ&_nc_oc=AdpARXirFa0ABVNq8C8vWXKXjQZhW0gKBlpGa3EXor1_8wYVTPZqIxfsjhcaBt8-qwA&_nc_zt=23&_nc_ht=scontent.feoh2-1.fna&_nc_gid=gfwdKdxtNSXxOAiPi1W_7A&_nc_ss=7a389&oh=00_Af1i7DHPvqoPXIZ_LQ2Oiygod_YzvZk7mQ1erjZ1oq4jSg&oe=69EABD54",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000117-e400be400d/700/josejulian.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -482,7 +482,7 @@
                 nombre: "Emma Maria Rojas",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -490,7 +490,7 @@
                 nombre: "Jhon Carlos Orejarena Rueda",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -515,7 +515,7 @@
                 nombre: "Arnulfo Ferreira Gualdrón",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -531,7 +531,7 @@
                 nombre: "Oscar Rene Forero Torres",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -547,7 +547,7 @@
                 nombre: "Oscar Mauricio Martinez Aparicio",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000103-08f4c08f4e/700/tito.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -563,7 +563,7 @@
                 nombre: "sergio Sarmiento Carreño",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -587,7 +587,7 @@
                 nombre: "Yeison Torres Castillo",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -595,7 +595,7 @@
                 nombre: "Javier Anaya",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -603,7 +603,7 @@
                 nombre: "Mary Helen Arguello",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -619,7 +619,7 @@
                 nombre: "Nilson Chaparro Diaz",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -635,7 +635,7 @@
                 nombre: "Jesus Martinez Uribe",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -643,7 +643,7 @@
                 nombre: "Alexander Cacho Vargas",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -651,7 +651,7 @@
                 nombre: "Juan Ferando Blanco",
                 grado: "11.5",
                 especialidad: "Dibujo",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -676,7 +676,31 @@
                 nombre: "Marcos Ricardo Calderón",
                 grado: "11.1",
                 especialidad: "Dibujo",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
+            },
+            {
+                id: 27,
+                nombre: "Maritza Diaz Ochoa",
+                grado: "11.1",
+                especialidad: "Dibujo",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
+            },
+            {
+                id: 27,
+                nombre: "Miguel Fernando Jaimes Abaunza",
+                grado: "11.1",
+                especialidad: "Dibujo",
+                foto: "https://files.lafm.com.co/assets/public/2021-11/miguel_fernando_jaimes_abaunza_director_de_asesoria_juridica_de_indra_en_colombia.jpg?r=1_1",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
+            },
+            {
+                id: 27,
+                nombre: "Nicolas",
+                grado: "11.1",
+                especialidad: "Dibujo",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000107-95a5395a55/700/nico.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -684,7 +708,15 @@
                 nombre: "Omar Muñoz",
                 grado: "11.1",
                 especialidad: "Dibujo",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
+            },
+            {
+                id: 27,
+                nombre: "Viviana Andrea Rodriguez",
+                grado: "11.1",
+                especialidad: "Dibujo",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -700,7 +732,7 @@
                 nombre: "Nestor Rico",
                 grado: "11.1",
                 especialidad: "Dibujo",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -716,15 +748,15 @@
                 nombre: "Oscar Prada",
                 grado: "11.1",
                 especialidad: "Dibujo",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
                 id: 27,
-                nombre: "Melisa Munevar",
+                nombre: "Jenny Montes",
                 grado: "11.1",
-                especialidad: "Dibujo",
-                foto: "",
+                especialidad: "Fundicion",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -740,7 +772,7 @@
                 nombre: "Rymel Arley Estevez Araque",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -748,7 +780,7 @@
                 nombre: "Jorge Luis Velazco",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -756,7 +788,7 @@
                 nombre: "Juan Carlos Carvajal",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -764,7 +796,7 @@
                 nombre: "Milton Carvajal",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -781,6 +813,14 @@
                 grado: "11.1",
                 especialidad: "Ebanisteria",
                 foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000031-f1df2f1df4/700/chejo.webp?ph=fda83c514b",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
+            },
+            {
+                id: 27,
+                nombre: "Cristian Mejía",
+                grado: "11.1",
+                especialidad: "Ebanisteria",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000093-9406794069/700/cristian_mejia.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -815,7 +855,7 @@
                 nombre: "Josue Aparicio",
                 grado: "11.1",
                 especialidad: "Fundicion",
-                foto: "",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000105-6c6c36c6c5/700/josue.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -851,9 +891,8 @@
                 nombre: "Alvaro Triana Muñoz",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "luto.jpg",
+                foto: "luto.png",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
-                fallecido: true,
                 
             },
             {
@@ -889,6 +928,204 @@
                 grado: "11.1",
                 especialidad: "Fundicion",
                 foto: "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/239433046_10159363585368290_1866587072667974667_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=VwD3U6dWDewQ7kNvwF_E8My&_nc_oc=Adoyio-REFa2WlqS_VM-IESd3MJMz2D82iOyPYvPJQxo361oENZejgD2D0JWWHSJ2Wg&_nc_zt=23&_nc_ht=scontent.feoh2-1.fna&_nc_gid=9Gl2MLbcP-izwLuM-WeHkQ&_nc_ss=7b289&oh=00_Af1_mQ1foJKR4gxVjb9t0SkbSsclau8jQqs-8hNW1-eJtw&oe=69F3D11D",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Rocio Serrano",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Jorge Luis Corredor Aguilar",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000095-6487d6487e/700/jorge_corredor.webp?ph=fda83c514b",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Maria Marlene Martinez",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Nelson Ayala",
+                grado: "11.1",
+                especialidad: "Mecanica",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000097-16e1a16e1c/450/1762082971836.webp?ph=fda83c514b",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Jhon Norberto Lopez",
+                grado: "11.1",
+                especialidad: "Mecanica",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000099-0bef50bef7/450/jhon_lopez.webp?ph=fda83c514b",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Juan Pablo Pamplona",
+                grado: "11.1",
+                especialidad: "Mecanica",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Sergio Andres Rodriguez Chaparro",
+                grado: "11.1",
+                especialidad: "Mecanica",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Cristian",
+                grado: "11.1",
+                especialidad: "Mecanica",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Omar Vesga",
+                grado: "11.1",
+                especialidad: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Carlos Augusto Calderon",
+                grado: "11.1",
+                especialidad: "Clasicos",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Jose Cupertino Ruiz Vargas",
+                grado: "11.1",
+                especialidad: "Clasicos",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000101-9cc9b9cc9d/450/cupertino.webp?ph=fda83c514b",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Reinel Ortiz",
+                grado: "11.1",
+                especialidad: "Ebanisteria",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Sergio Parra",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Arnulfo",
+                grado: "11.1",
+                especialidad: "Ebanisteria",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Andrea Reyes",
+                grado: "11.1",
+                especialidad: "",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000109-43a3d43a3f/700/andrea.webp?ph=fda83c514b",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Julian Ruiz",
+                grado: "11.1",
+                especialidad: "Ebanisteria",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Deysi Parada",
+                grado: "11.1",
+                especialidad: "",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000111-4d3d54d3d7/700/deysi_parada.webp?ph=fda83c514b",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Lina",
+                grado: "11.1",
+                especialidad: "",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000113-cc752cc754/700/lina.webp?ph=fda83c514b",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "Jhoana",
+                grado: "11.1",
+                especialidad: "",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000115-a6057a605a/700/jhoana.webp?ph=fda83c514b",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
