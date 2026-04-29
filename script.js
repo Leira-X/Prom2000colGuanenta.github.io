@@ -134,7 +134,7 @@
             },
             {
                 id: 17,
-                nombre: "Aura Viviana Velazco",
+                nombre: "Aura Viviana Velasco",
                 grado: "11.2",
                 especialidad: "Dibujo",
                 foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000176-cc5d6cc5d7/450/aura.webp?ph=fda83c514b",
@@ -643,7 +643,7 @@
                 nombre: "Jesus Martinez Uribe",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000332-e8028e802a/700/jesus.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -944,7 +944,7 @@
                 nombre: "Rocio Serrano",
                 grado: "11.1",
                 especialidad: "Fundicion",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000333-015f4015f6/700/rocio.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
