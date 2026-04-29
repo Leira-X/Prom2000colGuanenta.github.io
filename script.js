@@ -672,7 +672,7 @@
             },
             {
                 id: 27,
-                nombre: "Mary Luz Rodriguez Aguilar ",
+                nombre: "Mary Luz Rodriguez Aguilar Q.E.P.D.A. ",
                 grado: "11.1",
                 especialidad: "Dibujo",
                 foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000244-1f4c21f4c4/450/mary.webp?ph=fda83c514b",
@@ -833,7 +833,7 @@
             },
             {
                 id: 27,
-                nombre: "Sergio Ivan Amaya Murillo",
+                nombre: "Sergio Ivan Amaya Murillo Q.E.P.D.A.",
                 grado: "11.1",
                 especialidad: "Mecanica",
                 foto: "https://www.vanguardia.com/resizer/v2/366ND7BWFVF2LOCTQ5TPV2U4DY.jpg?auth=bcf8648ca7c660003bccf91bf03d9d56bf1abbad5ac32ccf9a2f69712c37ea56&smart=true&width=1200&height=630&quality=70",
@@ -896,7 +896,7 @@
             },
             {
                 id: 27,
-                nombre: "Alvaro Triana Muñoz",
+                nombre: "Alvaro Triana Muñoz Q.E.P.D.A.",
                 grado: "11.1",
                 especialidad: "Mecanica",
                 foto: "luto.jpg",
@@ -1411,17 +1411,17 @@
             },
             {
                 id: 21,
-                titulo: "2023. Fallece Gerardo Vesga Rueda",
+                titulo: "2023. Fallece Gerardo Vesga Rueda Q.E.P.D.A.",
                 imagen: "gerardo.jpeg"
             },
             {
                 id: 22,
-                titulo: "2020. Fallece Alvaro Triana Muñoz",
+                titulo: "2020. Fallece Alvaro Triana Muñoz Q.E.P.D.A.",
                 imagen: "triana.jpeg"
             },
             {
                 id: 23,
-                titulo: "2021. Fallece Sergio Ivan Amaya Murillo",
+                titulo: "2021. Fallece Sergio Ivan Amaya Murillo Q.E.P.D.A.",
                 imagen: "amaya.jpeg"
             },
             {
@@ -1431,13 +1431,13 @@
             },
             {
                 id: 23,
-                titulo: "2018. Fallece Lady María Rodríguez Flórez",
+                titulo: "2018. Fallece Lady María Rodríguez Flórez Q.E.P.D.A.",
                 imagen: "lady_profesora.jpeg"
             },
             {
-                id: 23,
-                titulo: "",
-                imagen: ""
+                id: 24,
+                titulo: "Tienda Don Roso Q.E.P.D.A.",
+                imagen: "roso.jpeg"
             },
             {
                 id: 23,
