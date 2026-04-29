@@ -5,7 +5,7 @@
                 nombre: "Claudia Lucía Acelas",
                 grado: "11.1",
                 especialidad: "Sistemas",
-                foto: "https://yt3.googleusercontent.com/ytc/AIdro_lB1NSH2x8mOZVE_bw9NX6EMoO8HCVLbmclMjCXRaELPKE=s900-c-k-c0x00ffffff-no-rj",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000304-2ce252ce27/450/claudia_acelas.webp?ph=fda83c514b",
                 descripcion: "",
                 
             },
@@ -14,7 +14,7 @@
                 nombre: "yoana Calderon",
                 grado: "11.3",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000055-658fa658fd/700/yoana.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000293-8e40e8e410/450/yoana.webp?ph=fda83c514b",
                 descripcion: "",
                 
             },
@@ -23,7 +23,7 @@
                 nombre: "Javier Fernando Camacho",
                 grado: "11.3",
                 especialidad: "Sistemas",
-                foto: "https://yt3.googleusercontent.com/ytc/AIdro_ngKVgWYiMW5zba9TIyWkIVoBj_1-gezY8Cd0JnX-oyUhU=s160-c-k-c0x00ffffff-no-rj",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000297-c317cc317f/450/javier_camacho.webp?ph=fda83c514b",
                 descripcion: "",
             
             },
@@ -32,7 +32,7 @@
                 nombre: "Yolima castillo Ulloa",
                 grado: "11.3",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000035-0cab70cab9/700/yolima.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000294-93dc693dc9/450/yolima.webp?ph=fda83c514b",
                 descripcion: "Destacado en debates estudiantiles. Hoy es abogado penalista en Bucaramanga.",
                 Matripuntos: "0"
             },
@@ -41,7 +41,7 @@
                 nombre: "Juan Ricardo Cobos Perez",
                 grado: "11.3",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000057-9f84e9f850/700/629754794_18401975104181627_4207378683678415651_n.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000147-595aa595ad/450/629754794_18401975104181627_4207378683678415651_n.webp?ph=fda83c514b",
                 descripcion: "Excelente en literatura y escritura creativa. Actualmente es periodista y escritora."
             },
             {
@@ -49,7 +49,7 @@
                 nombre: "Sandra Bibiana Becerra",
                 grado: "11.3",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000003-c947fc9481/450/1758645218311.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000158-19ae919aeb/450/1758645218311.webp?ph=fda83c514b",
                 descripcion: "Destacado en física y química. Hoy es ingeniero químico en Barranquilla."
             },
             {
@@ -65,7 +65,7 @@
                 nombre: "Uriel Oswaldo Gómez Acosta",
                 grado: "11.4",
                 especialidad: "Sistemas",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000312-39aa239aa3/450/uriel.webp?ph=fda83c514b",
                 descripcion: "Administrador Público Especialista en Gestión del TTHH."
             },
             {
@@ -73,7 +73,7 @@
                 nombre: "Sandra Milena Gómez Moncada ",
                 grado: "11.1",
                 especialidad: "Sistemas",
-                foto: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShMF5RHw1-s0chElE0WiO3TKDxW_KA6_JL3w&s",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000310-d67a5d67a8/450/sandra_moncada.webp?ph=fda83c514b",
                 descripcion: "Excelente en inglés y francés. Actualmente es traductora e intérprete."
             },
             {
@@ -81,7 +81,7 @@
                 nombre: "Cristina Isabel Gómez Quecho",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000005-0fc7c0fc7e/450/1673715919365.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000135-c8a39c8a3b/450/1673715919365.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -129,7 +129,7 @@
                 nombre: "Edwin Rodríguez",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000019-8c84f8c851/700/edwinrodri.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000200-47f9a47fa4/450/edwinrodri.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -137,7 +137,7 @@
                 nombre: "Aura Viviana Velazco",
                 grado: "11.2",
                 especialidad: "Dibujo",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000053-ce02ace02c/aura.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000176-cc5d6cc5d7/450/aura.webp?ph=fda83c514b",
                 descripcion: ""
             },
             {
@@ -145,7 +145,7 @@
                 nombre: "Cesar Sanabria",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000059-6a9c16a9c3/700/cesar.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000177-dfc29dfc2a/450/cesar.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -161,7 +161,7 @@
                 nombre: "Nelsy Valderrama",
                 grado: "11.1",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000061-7e0307e032/nelcy.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000258-3e7033e706/450/nelcy.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -177,7 +177,7 @@
                 nombre: "Melisa Munévar",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000063-9aa289aa2a/700/melisa.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000243-126f0126f2/450/melisa.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -185,7 +185,7 @@
                 nombre: "Diana Ximena Pinzón",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000025-426e9426eb/700/502977815_18514958479038601_6436733676180734622_n.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000145-0fd860fd88/450/502977815_18514958479038601_6436733676180734622_n.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -193,7 +193,7 @@
                 nombre: "Helena Margarita Guarín Nuñez",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000013-f2603f2605/450/1718513598107.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000155-da153da155/450/1718513598107.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -201,7 +201,7 @@
                 nombre: "Fallon Marcela Guarín",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000021-4f6f34f6f5/700/621682788_18080366720005843_3211879001585885830_n.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000314-5825658258/450/fallon-6.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -209,7 +209,7 @@
                 nombre: "Dexy Mayerly Parra ",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000015-2fd5f2fd61/450/1516591227008.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000136-3262132623/450/1516591227008.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -217,7 +217,7 @@
                 nombre: "Lucenith Jaimes",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000065-bdee4bdee6/700/lucenith.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000240-478fc478fe/450/lucenith.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -265,7 +265,7 @@
                 nombre: "Alvaro Fabián Muñoz",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000017-ba9d7ba9d9/700/361718845_951634242619060_3245475423769438347_n.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000137-420e7420e9/450/361718845_951634242619060_3245475423769438347_n.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -281,7 +281,7 @@
                 nombre: "Jeffrey Andres Díaz",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000067-b57dbb57dc/700/jeffrey.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000223-7cde07cde2/450/jeffrey.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -297,7 +297,7 @@
                 nombre: "Javier Ricardo Solano",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000081-e2216e2218/700/ricardo_solano.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000268-84c4d84c4f/450/ricardo_solano.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -313,7 +313,7 @@
                 nombre: "Fabián Aníbal López",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000047-b3be9b3beb/700/fabian.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000199-0c5140c516/450/fabian.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
 
@@ -338,7 +338,7 @@
                 nombre: "Nelson Miguel Pico Pico",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/650009867_10162437700562897_226161714762684770_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=13d280&_nc_ohc=SpsgBTrpi_QQ7kNvwFM4hw2&_nc_oc=AdoQml2eI-h5Zn2Tojsu7BMbT81Y_vMTE8-s_d93trwSJro84LO3W7U__bSqFX_pGJ4&_nc_zt=23&_nc_ht=scontent.feoh2-1.fna&_nc_gid=cSMDmpboqVzgBZq2K-iWew&_nc_ss=7a389&oh=00_Af1EiXT93FYLN2Z7_FzpBrRcJwwycGucVuhLV41mHtIQyA&oe=69EAAE46",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000316-cdaa9cdaac/450/nelson.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -370,7 +370,7 @@
                 nombre: "Ronald Chaparro",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000009-75d1675d18/450/1679705944808.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000149-6c03c6c03f/450/1679705944808.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -386,7 +386,7 @@
                 nombre: "Sandra Milena Ardila Vera",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000119-3d3a23d3a4/700/sandra_ardila.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000318-8edf68edf8/450/sandra_ardila-0.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -418,7 +418,7 @@
                 nombre: "Ariel Fernández Gualdrón",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000123-32b3532b36/700/ariel.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000166-95dce95dd0/450/ariel.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -450,7 +450,7 @@
                 nombre: "Aminta Lasprilla Suarez",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000320-db0b8db0bb/450/aminta.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -458,7 +458,7 @@
                 nombre: "Jhosep Miller Augusto Barbosa Diaz",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000069-227eb227ed/450/miller.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000248-2a47d2a47e/450/miller.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -482,7 +482,7 @@
                 nombre: "Jose Julian Gomez Gomez",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000117-e400be400d/700/josejulian.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000231-3d5613d564/450/josejulian.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -498,7 +498,7 @@
                 nombre: "Jhon Carlos Orejarena Rueda",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000322-c332bc332c/450/jhon_orejarena.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -506,7 +506,7 @@
                 nombre: "Oscar Ivan Sierra Corredor",
                 grado: "11.5",
                 especialidad: "Electricidad",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000077-5517b5517e/700/sierra.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000278-cab8ccab8e/450/sierra.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -514,7 +514,7 @@
                 nombre: "Alex Julian Estevez Araque",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000001-26a3226a35/450/1770477575666.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000159-330d3330d5/450/1770477575666.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 Matripuntos: "Matripuntos 450",
             },
@@ -531,7 +531,7 @@
                 nombre: "Cristian Fredy Fiallo Muñoz",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000027-922bb922bd/700/fialloImage_a6wqxda6wqxda6wq.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000208-730b4730b6/450/fialloImage_a6wqxda6wqxda6wq.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -547,7 +547,7 @@
                 nombre: "Carlos Augusto Garcia Pineda",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000029-c9de9c9deb/700/garcia.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000210-9519695199/450/garcia.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -555,7 +555,7 @@
                 nombre: "Oscar Mauricio Martinez Aparicio",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000103-08f4c08f4e/700/tito.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000285-655986559b/450/tito.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -579,7 +579,7 @@
                 nombre: "Julian Mauricio Ramirez Sanchez",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000011-4f7d34f7d5/450/1516941020587.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000148-66bc566bc7/450/1516941020587.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -587,7 +587,7 @@
                 nombre: "Sergio Armando Rodriguez Calderón",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000071-204cd204cf/700/camioneta.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000167-98c2498c26/450/camioneta.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -619,7 +619,7 @@
                 nombre: "Miguel Ricardo Bonilla",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000037-3a06a3a06c/700/bonilla.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000178-df14bdf14e/450/bonilla.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -635,7 +635,7 @@
                 nombre: "Walfran Hernández Diaz",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000073-1f3611f364/700/walfran.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000287-458cb458cd/450/walfran.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -659,7 +659,7 @@
                 nombre: "Juan Ferando Blanco",
                 grado: "11.5",
                 especialidad: "Dibujo",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000308-d685bd685d/700/juanfer.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -667,7 +667,7 @@
                 nombre: "Emilsen Johanna Morales Duarte",
                 grado: "11.1",
                 especialidad: "Dibujo",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000051-dffa8dffaa/700/emilsen.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000198-9a99f9a9a1/450/emilsen.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -675,7 +675,7 @@
                 nombre: "Mary Luz Rodriguez Aguilar ",
                 grado: "11.1",
                 especialidad: "Dibujo",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000033-c0afec0b00/700/mary.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000244-1f4c21f4c4/450/mary.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 fallecido: true,
             },
@@ -684,7 +684,7 @@
                 nombre: "Marcos Ricardo Calderón",
                 grado: "11.1",
                 especialidad: "Dibujo",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000324-a9111a9113/450/marcos.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -708,7 +708,7 @@
                 nombre: "Nicolas",
                 grado: "11.1",
                 especialidad: "Dibujo",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000107-95a5395a55/700/nico.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000257-275bd275bf/450/nico.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -732,7 +732,7 @@
                 nombre: "Milena Perez",
                 grado: "11.1",
                 especialidad: "Dibujo",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000075-9882598827/700/milena.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000246-cf692cf694/450/milena.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -748,7 +748,7 @@
                 nombre: "Myriam Suarez",
                 grado: "11.1",
                 especialidad: "Dibujo",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000079-2509125092/700/myriam.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000256-e8388e838b/450/myriam.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -772,7 +772,7 @@
                 nombre: "Juan Pablo Lopez Mancilla",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000087-6aab96aaba/700/juanpablo_lopez.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000233-d4ca6d4ca8/450/juanpablo_lopez.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -780,15 +780,15 @@
                 nombre: "Rymel Arley Estevez Araque",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000301-9091690918/450/arley_estevez.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
                 id: 27,
-                nombre: "Jorge Luis Velazco",
+                nombre: "Jorge Luis Velasco",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000303-d8b29d8b2b/450/jorge_velasco.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -796,7 +796,7 @@
                 nombre: "Juan Carlos Carvajal",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000305-3900139003/450/juan_carvajal.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -812,7 +812,7 @@
                 nombre: "Willian Contreras",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000083-8be618be63/700/willian.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000288-551c9551cb/450/willian.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -820,7 +820,7 @@
                 nombre: "Jesus Uribe",
                 grado: "11.1",
                 especialidad: "Ebanisteria",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000031-f1df2f1df4/700/chejo.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000230-f2adef2ae0/450/jose%20uribe.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -828,7 +828,7 @@
                 nombre: "Cristian Mejía",
                 grado: "11.1",
                 especialidad: "Ebanisteria",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000093-9406794069/700/cristian_mejia.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000187-35d0635d08/450/cristian_mejia.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -845,7 +845,7 @@
                 nombre: "Claudia Milena Morales",
                 grado: "11.1",
                 especialidad: "Fundicion",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000039-c1741c1742/700/claudia.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000179-5be365be38/450/claudia.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -854,7 +854,7 @@
                 nombre: "Sergio Parra",
                 grado: "11.1",
                 especialidad: "Fundicion",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000085-e9b04e9b06/700/sergio_parra.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000277-59beb59bed/450/sergio_parra.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -863,7 +863,7 @@
                 nombre: "Josue Aparicio",
                 grado: "11.1",
                 especialidad: "Fundicion",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000105-6c6c36c6c5/700/josue.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000229-e093ee0940/450/josue.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -872,7 +872,7 @@
                 nombre: "Eric Gutierrez",
                 grado: "11.1",
                 especialidad: "Fundicion",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000041-f2066f2068/eric.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000197-90f1a90f1c/450/eric.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -881,7 +881,7 @@
                 nombre: "Astrid Juliana Mateus",
                 grado: "11.1",
                 especialidad: "Clasicos",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000043-b2800b2803/700/astrid.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000169-cd5c7cd5ca/450/astrid.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -890,7 +890,7 @@
                 nombre: "Robinzon Alexander Florez Lopez",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000045-c8affc8b01/700/robinson.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000276-5794b5794e/450/robinson.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -908,7 +908,7 @@
                 nombre: "Juan Carlos Gonzalez",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000049-d1c7bd1c7c/700/223899432_158520489706700_1319952963911670563_n.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000138-911a8911aa/450/223899432_158520489706700_1319952963911670563_n.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -917,7 +917,7 @@
                 nombre: "Diana Carolina Duran Ayala",
                 grado: "11.1",
                 especialidad: "Fundicion",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000089-8e0688e06a/700/diana_duran.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000195-ef68eef690/450/diana_duran.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -926,7 +926,7 @@
                 nombre: "Yuranny Mendez",
                 grado: "11.1",
                 especialidad: "Fundicion",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000091-17ffc17ffd/700/yaranymendez.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000292-6de216de23/450/yaranymendez.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -935,7 +935,7 @@
                 nombre: "Jairo Rincon",
                 grado: "11.1",
                 especialidad: "Fundicion",
-                foto: "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/239433046_10159363585368290_1866587072667974667_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=VwD3U6dWDewQ7kNvwF_E8My&_nc_oc=Adoyio-REFa2WlqS_VM-IESd3MJMz2D82iOyPYvPJQxo361oENZejgD2D0JWWHSJ2Wg&_nc_zt=23&_nc_ht=scontent.feoh2-1.fna&_nc_gid=9Gl2MLbcP-izwLuM-WeHkQ&_nc_ss=7b289&oh=00_Af1_mQ1foJKR4gxVjb9t0SkbSsclau8jQqs-8hNW1-eJtw&oe=69F3D11D",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000326-5ce315ce33/450/jairo_rincon.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -953,7 +953,7 @@
                 nombre: "Jorge Luis Corredor Aguilar",
                 grado: "11.1",
                 especialidad: "Fundicion",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000095-6487d6487e/700/jorge_corredor.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000227-701f4701f6/450/jorge_corredor.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -971,7 +971,7 @@
                 nombre: "Nelson Ayala",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000097-16e1a16e1c/450/1762082971836.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000156-17c3617c38/450/1762082971836.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -980,7 +980,7 @@
                 nombre: "Jhon Norberto Lopez",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000099-0bef50bef7/450/jhon_lopez.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000220-c27ddc27df/450/jhon_lopez.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1034,7 +1034,7 @@
                 nombre: "Jose Cupertino Ruiz Vargas",
                 grado: "11.1",
                 especialidad: "Clasicos",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000101-9cc9b9cc9d/450/cupertino.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000188-5663556637/450/cupertino.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1070,7 +1070,7 @@
                 nombre: "Andrea Reyes",
                 grado: "11.1",
                 especialidad: "Clasicos",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000109-43a3d43a3f/700/andrea.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000170-e639be639d/450/andrea.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1097,7 +1097,7 @@
                 nombre: "Deysi Parada",
                 grado: "11.1",
                 especialidad: "Fundicion",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000111-4d3d54d3d7/700/deysi_parada.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000191-ec089ec08b/450/deysi_parada.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1106,7 +1106,7 @@
                 nombre: "Lina",
                 grado: "11.1",
                 especialidad: "",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000113-cc752cc754/700/lina.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000238-0adea0adec/450/lina.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1115,7 +1115,7 @@
                 nombre: "Jhoana",
                 grado: "11.1",
                 especialidad: "",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000115-a6057a605a/700/jhoana.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000221-dd669dd66b/450/jhoana.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1124,7 +1124,7 @@
                 nombre: "Sandra Milena Garrido Gelves",
                 grado: "11.1",
                 especialidad: "Clasicos",
-                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000121-ed7cbed7cd/700/sandra_garrido.webp?ph=fda83c514b",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000275-42cb342cb4/450/sandra_garrido.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1187,7 +1187,7 @@
                 nombre: "Jorge Tangua",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000328-711ac711ae/450/jorge_tangua.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
