@@ -1211,10 +1211,10 @@
             },
             {
                 id: 27,
-                nombre: "",
+                nombre: "Sergio Benites",
                 grado: "11.1",
-                especialidad: "Fundicion",
-                foto: "",
+                especialidad: "mecanica",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1229,19 +1229,19 @@
             },
             {
                 id: 27,
-                nombre: "",
+                nombre: "Diego Fernando Montaña Campos",
                 grado: "11.1",
-                especialidad: "Fundicion",
-                foto: "",
+                especialidad: "Clasicos",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000335-38f6338f66/450/diego_monta%C3%B1a.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
             {
                 id: 27,
-                nombre: "",
+                nombre: "Carolina Salinas",
                 grado: "11.1",
-                especialidad: "Fundicion",
-                foto: "",
+                especialidad: "",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000337-8efcf8efd1/450/carolina%20salinas.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
