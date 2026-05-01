@@ -986,7 +986,7 @@
             },
             {
                 id: 27,
-                nombre: "Juan Pablo Pamplona",
+                nombre: "Cesar Augusto Pamplona",
                 grado: "11.1",
                 especialidad: "Mecanica",
                 foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
