@@ -1079,7 +1079,7 @@
                 nombre: "Julian Ruiz",
                 grado: "11.1",
                 especialidad: "Ebanisteria",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000353-aae3eaae40/450/julian_ruiz.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
