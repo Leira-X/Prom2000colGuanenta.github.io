@@ -97,7 +97,7 @@
                 nombre: "Erimer Mancilla Ríos",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000344-0693c0693f/450/WhatsApp%20Image%202026-05-01%20at%208.43.29%20PM.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -134,7 +134,7 @@
             },
             {
                 id: 17,
-                nombre: "Aura Viviana Velasco",
+                nombre: "Aura Viviana Velazco",
                 grado: "11.2",
                 especialidad: "Dibujo",
                 foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000176-cc5d6cc5d7/450/aura.webp?ph=fda83c514b",
@@ -539,7 +539,7 @@
                 nombre: "Oscar Rene Forero Torres",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000346-2c0012c003/450/oscar_forero.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -571,7 +571,7 @@
                 nombre: "sergio Sarmiento Carreño",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000351-74b7d74b7f/450/WhatsApp%20Image%202026-05-01%20at%208.43.28%20PM%20%281%29.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -672,7 +672,7 @@
             },
             {
                 id: 27,
-                nombre: "Mary Luz Rodriguez Aguilar Q.E.P.D.A. ",
+                nombre: "Mary Luz Rodriguez Aguilar ",
                 grado: "11.1",
                 especialidad: "Dibujo",
                 foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000244-1f4c21f4c4/450/mary.webp?ph=fda83c514b",
@@ -692,7 +692,7 @@
                 nombre: "Maritza Diaz Ochoa",
                 grado: "11.1",
                 especialidad: "Dibujo",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000350-539b0539b2/450/WhatsApp%20Image%202026-05-01%20at%208.43.27%20PM.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
             },
             {
@@ -833,7 +833,7 @@
             },
             {
                 id: 27,
-                nombre: "Sergio Ivan Amaya Murillo Q.E.P.D.A.",
+                nombre: "Sergio Ivan Amaya Murillo",
                 grado: "11.1",
                 especialidad: "Mecanica",
                 foto: "https://www.vanguardia.com/resizer/v2/366ND7BWFVF2LOCTQ5TPV2U4DY.jpg?auth=bcf8648ca7c660003bccf91bf03d9d56bf1abbad5ac32ccf9a2f69712c37ea56&smart=true&width=1200&height=630&quality=70",
@@ -896,7 +896,7 @@
             },
             {
                 id: 27,
-                nombre: "Alvaro Triana Muñoz Q.E.P.D.A.",
+                nombre: "Alvaro Triana Muñoz",
                 grado: "11.1",
                 especialidad: "Mecanica",
                 foto: "luto.jpg",
@@ -986,10 +986,10 @@
             },
             {
                 id: 27,
-                nombre: "Cesar Augusto Pamplona",
+                nombre: "Cesar Pamplona",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000343-ed55bed55d/450/WhatsApp%20Image%202026-05-01%20at%208.43.27%20PM%20%281%29.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1016,7 +1016,7 @@
                 nombre: "Omar Vesga",
                 grado: "11.1",
                 especialidad: "",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000347-5611456116/700/WhatsApp%20Image%202026-05-01%20at%208.43.27%20PM%20%282%29.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1212,18 +1212,9 @@
             {
                 id: 27,
                 nombre: "Sergio Benites",
-                grado: "11.1",
-                especialidad: "mecanica",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
-                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
-                
-            },
-            {
-                id: 27,
-                nombre: "",
-                grado: "11.1",
-                especialidad: "Fundicion",
-                foto: "",
+                grado: "11.6",
+                especialidad: "Mecanica",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000345-1dcb01dcb2/450/WhatsApp%20Image%202026-05-01%20at%208.43.26%20PM%20%281%29.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
@@ -1242,6 +1233,15 @@
                 grado: "11.1",
                 especialidad: "",
                 foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000337-8efcf8efd1/450/carolina%20salinas.webp?ph=fda83c514b",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
+                
+            },
+            {
+                id: 27,
+                nombre: "",
+                grado: "11.1",
+                especialidad: "Fundicion",
+                foto: "",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
