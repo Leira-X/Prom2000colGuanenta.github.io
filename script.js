@@ -1196,7 +1196,7 @@
                 nombre: "Mercedes Amaya",
                 grado: "11.1",
                 especialidad: "",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "https://fda83c514b.cbaul-cdnwnd.com/d7126d3ebd4e5df5fbf159dc3aef9422/200000355-d4779d477b/450/mercedes_amaya.webp?ph=fda83c514b",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
