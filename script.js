@@ -1293,7 +1293,7 @@
                 nombre: "Ricardo Balaguera",
                 grado: "11.1",
                 especialidad: "Clasicos",
-                foto: "",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
             },
