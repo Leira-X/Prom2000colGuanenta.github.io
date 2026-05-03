@@ -824,6 +824,14 @@
             },
             {
                 id: 27,
+                nombre: "Sonia",
+                grado: "11.1",
+                especialidad: "Ebanisteria",
+                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico."
+            },
+            {
+                id: 27,
                 nombre: "Cristian Mejía",
                 grado: "11.1",
                 especialidad: "Ebanisteria",
@@ -1282,9 +1290,9 @@
             },
             {
                 id: 27,
-                nombre: "",
+                nombre: "Ricardo Balaguera",
                 grado: "11.1",
-                especialidad: "Fundicion",
+                especialidad: "Clasicos",
                 foto: "",
                 descripcion: "Destacado en economía y emprendimiento. Hoy es empresario en el sector tecnológico.",
                 
