@@ -1048,9 +1048,9 @@
             },
             {
                 id: 27,
-                nombre: " ",
+                nombre: "Omar Otero ",
                 grado: "11.1",
-                especialidad: "Fundicion",
+                especialidad: "Ebanisteria",
                 foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "",
                 
