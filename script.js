@@ -1441,142 +1441,142 @@
             {
                 id: 1,
                 titulo: "Especialidad de Sistemas. Imagen proporcionada por (Sandra Milena Moncada)",
-                imagen: "sistemas.jpg"
+                imagen: "imagenes_eventos/sistemas.jpg"
             },
             {
                 id: 2,
                 titulo: "Especialidad de Sistemas.",
-                imagen: "sistemas2.jpeg"
+                imagen: "imagenes_eventos/sistemas2.jpeg"
             },
             {
                 id: 3,
                 titulo: "Comparsa",
-                imagen: "comparsa.jpg"
+                imagen: "imagenes_eventos/comparsa.jpg"
             },
             {
                 id: 4,
                 titulo: "Grado",
-                imagen: "grado.jpeg"
+                imagen: "imagenes_eventos/grado.jpeg"
             },
             {
                 id: 5,
                 titulo: "Grado",
-                imagen: "1.jpg"
+                imagen: "imagenes_eventos/1.jpg"
             },
             {
                 id: 6,
                 titulo: "Mosaico Prom 2000",
-                imagen: "mosaico.jpg"
+                imagen: "imagenes_eventos/mosaico.jpg"
             },
             {
                 id: 7,
                 titulo: "Metalisteria",
-                imagen: "metalisteria.jpeg"
+                imagen: "imagenes_eventos/metalisteria.jpeg"
             },
             {
                 id: 8,
                 titulo: "Metalisteria 2010",
-                imagen: "Julian.jpg"
+                imagen: "imagenes_eventos/Julian.jpg"
             },
             {
                 id: 9,
                 titulo: "Reunión Metalisteria 2010",
-                imagen: "reunion_meta.jpg"
+                imagen: "imagenes_eventos/reunion_meta.jpg"
             },
             {
                 id: 10,
                 titulo: "Reunión Secreta",
-                imagen: "reunion20xx.jpg"
+                imagen: "imagenes_eventos/reunion20xx.jpg"
             },
             {
                 id: 10,
                 titulo: "Reunión 2025",
-                imagen: "2.jpeg"
+                imagen: "imagenes_eventos/2.jpeg"
             },
             {
                 id: 11,
                 titulo: "Reunión 2025",
-                imagen: "3.jpeg"
+                imagen: "imagenes_eventos/3.jpeg"
             },
             {
                 id: 12,
                 titulo: "Reunión 2025",
-                imagen: "4.jpeg"
+                imagen: "imagenes_eventos/4.jpeg"
             },
             {
                 id: 13,
                 titulo: "Reunión 2025",
-                imagen: "5.jpeg"
+                imagen: "imagenes_eventos/5.jpeg"
             },
             {
                 id: 14,
                 titulo: "Reunión 2025",
-                imagen: "6.jpeg"
+                imagen: "imagenes_eventos/6.jpeg"
             },
             {
                 id: 15,
                 titulo: "Reunión 2025",
-                imagen: "7.jpeg"
+                imagen: "imagenes_eventos/7.jpeg"
             },
             {
                 id: 16,
                 titulo: "Reunión 2025",
-                imagen: "8.jpeg"
+                imagen: "imagenes_eventos/8.jpeg"
             },
             {
                 id: 17,
                 titulo: "Reunión 2025",
-                imagen: "11.jpeg"
+                imagen: "imagenes_eventos/11.jpeg"
             },
             {
                 id: 18,
                 titulo: "Reunión 2025",
-                imagen: "10.jpeg"
+                imagen: "imagenes_eventos/10.jpeg"
             },
             {
                 id: 19,
                 titulo: "Reunión 2025",
-                imagen: "12.jpeg"
+                imagen: "imagenes_eventos/12.jpeg"
             },
             {
                 id: 20,
                 titulo: "Reunión 2010",
-                imagen: "reunion.jpg"
+                imagen: "imagenes_eventos/reunion.jpg"
             },
             {
                 id: 21,
                 titulo: "2023. Fallece Gerardo Vesga Rueda Q.E.P.D.A.",
-                imagen: "gerardo.jpeg"
+                imagen: "imagenes_eventos/gerardo.jpeg"
             },
             {
                 id: 22,
                 titulo: "2020. Fallece Alvaro Triana Muñoz Q.E.P.D.A.",
-                imagen: "triana.jpeg"
+                imagen: "imagenes_eventos/triana.jpeg"
             },
             {
                 id: 23,
                 titulo: "2021. Fallece Sergio Ivan Amaya Murillo Q.E.P.D.A.",
-                imagen: "amaya.jpeg"
+                imagen: "imagenes_eventos/amaya.jpeg"
             },
             {
                 id: 23,
                 titulo: "Profesor Orlando Diaz",
-                imagen: "orlando.jfif"
+                imagen: "imagenes_eventos/orlando.jfif"
             },
             {
                 id: 23,
                 titulo: "2018. Fallece Lady María Rodríguez Flórez Q.E.P.D.A.",
-                imagen: "lady_profesora.jpeg"
+                imagen: "imagenes_eventos/lady_profesora.jpeg"
             },
             {
                 id: 24,
                 titulo: "Tienda Don Roso Q.E.P.D.A.",
-                imagen: "roso.jpeg"
+                imagen: "imagenes_eventos/roso.jpeg"
             },
             {
                 id: 23,
                 titulo: "",
-                imagen: ""
+                imagen: "imagenes_eventos/"
             },
         ];
         
