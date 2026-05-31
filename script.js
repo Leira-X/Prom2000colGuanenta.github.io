@@ -1570,6 +1570,11 @@
             },
             {
                 id: 24,
+                titulo: "2018. Fallece Alexis Ruiz Pinzón Q.E.P.D.A.",
+                imagen: "imagenes_eventos/alexis_ruiz.jpg"
+            },
+            {
+                id: 25,
                 titulo: "Tienda Don Roso Q.E.P.D.A.",
                 imagen: "imagenes_eventos/roso.jpeg"
             },
