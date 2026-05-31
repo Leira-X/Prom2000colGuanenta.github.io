@@ -1575,8 +1575,8 @@
             },
             {
                 id: 23,
-                titulo: "",
-                imagen: "imagenes_eventos/"
+                titulo: "Grado Jose Uribe",
+                imagen: "imagenes_eventos/grado_jose_uribe"
             },
         ];
         
