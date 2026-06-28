@@ -56,7 +56,7 @@
                 nombre: "Diana Carolina Galvis",
                 grado: "11.4",
                 especialidad: "Sistemas",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "imagenes_personal/dianag.jpg",
                 descripcion: ""
             },
             {
@@ -152,7 +152,7 @@
                 nombre: "Yesid Alexander Sánchez",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "imagenes_personal/yesid.jpg",
                 descripcion: ""
             },
             {
@@ -224,7 +224,7 @@
                 nombre: "Liliana Sarmiento",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "imagenes_personal/lilianasarmiento.jpg",
                 descripcion: ""
             },
             {
@@ -345,7 +345,7 @@
                 nombre: "Omar David Moreno Clavijo",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "imagenes_personal/omarclavijo.jpg",
                 descripcion: ""
             },
             {
@@ -393,7 +393,7 @@
                 nombre: "Idalina Beltran Gomez",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "imagenes_personal/idalina.jpg",
                 descripcion: ""
             },
             {
@@ -489,7 +489,7 @@
                 nombre: "Emma Maria Rojas",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "imagenes_personal/emma.jpg",
                 descripcion: ""
             },
             {
@@ -594,7 +594,7 @@
                 nombre: "Yeison Torres Castillo",
                 grado: "11.5",
                 especialidad: "Metalisteria",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "imagenes_personal/yeison_torres.jpg",
                 descripcion: ""
             },
             {
@@ -715,7 +715,7 @@
                 nombre: "Omar Fabian Muñoz",
                 grado: "11.1",
                 especialidad: "Dibujo",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "imagenes_personal/omar_muñoz.jpg",
                 descripcion: ""
             },
             {
@@ -803,7 +803,7 @@
                 nombre: "Milton Carvajal",
                 grado: "11.1",
                 especialidad: "Mecanica",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "imagenes_personal/milton_carvajal.jpg",
                 descripcion: ""
             },
             {
@@ -1048,9 +1048,9 @@
             },
             {
                 id: 27,
-                nombre: "Omar Otero ",
+                nombre: "Omar Otero",
                 grado: "11.1",
-                especialidad: "Ebanisteria",
+                especialidad: "Fundicion",
                 foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
                 descripcion: "",
                 
@@ -1291,10 +1291,10 @@
             },
             {
                 id: 27,
-                nombre: "",
+                nombre: "Joofer Gomez Rojas",
                 grado: "11.1",
-                especialidad: "Fundicion",
-                foto: "",
+                especialidad: "Clasicos",
+                foto: "imagenes_personal/joofer.jpg",
                 descripcion: "",
                 
             },
@@ -1428,8 +1428,8 @@
                 id: 27,
                 nombre: "Luis Villa",
                 grado: "11.1",
-                especialidad: "Fundicion",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                especialidad: "Mecanica",
+                foto: "imagenes_personal/luisvilla.jpg",
                 descripcion: "",
                 
             },
