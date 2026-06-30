@@ -240,7 +240,7 @@
                 nombre: "Sergio Yhair Rodríguez",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "imagenes_personal/sergio_ro.jpg",
                 descripcion: ""
             },
             {
@@ -1141,7 +1141,7 @@
                 nombre: "Danny Bueno",
                 grado: "11.1",
                 especialidad: "",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "imagenes_personal/danny.jpg",
                 descripcion: "",
                 
             },
