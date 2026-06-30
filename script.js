@@ -377,7 +377,7 @@
                 nombre: "Sergio Ivan Millan",
                 grado: "11.3",
                 especialidad: "Electricidad",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "imagenes_personal/millan.jpg",
                 descripcion: ""
             },
             {
