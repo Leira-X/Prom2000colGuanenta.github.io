@@ -232,7 +232,7 @@
                 nombre: "Olga Urrea",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "imagenes_personal/olga.jpg",
                 descripcion: ""
             },
             {
