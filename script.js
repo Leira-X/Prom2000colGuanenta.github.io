@@ -168,7 +168,7 @@
                 nombre: "Nohora Alejandra Guerrero",
                 grado: "11.5",
                 especialidad: "Sistemas",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "imagenes_personal/nohora.jpg",
                 descripcion: ""
             },
             {
@@ -755,7 +755,7 @@
                 nombre: "Oscar Prada",
                 grado: "11.1",
                 especialidad: "Dibujo",
-                foto: "https://img.freepik.com/fotos-premium/hombre-circulo-azul-fondo-blanco_1137696-4343.jpg",
+                foto: "imagenes_personal/oscar_prada.jpg",
                 descripcion: ""
             },
             {
