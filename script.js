@@ -1690,7 +1690,7 @@
                 nombre: "Harvey Ivan Parra Muñoz",
                 grado: "11.6",
                 especialidad: "Clasicos",
-                foto: "imagenes_personal/harvey_ivan_parra.jpg",
+                foto: "imagenes_personal/Harvey_Ivan_Parra.jpg",
                 descripcion: "",
                 
             },
@@ -1699,7 +1699,7 @@
                 nombre: "Belisario Poveda Ayala",
                 grado: "11.6",
                 especialidad: "Clasicos",
-                foto: "imagenes_personal/belisario_poveda_ayala.jpg",
+                foto: "imagenes_personal/Belisario_Poveda_Ayala.jpg",
                 descripcion: "",
                 
             },
@@ -1708,7 +1708,7 @@
                 nombre: "Albert Antonio Rios Contreras",
                 grado: "11.6",
                 especialidad: "Clasicos",
-                foto: "imagenes_personal/albert_antonio_rios_contreras.jpg",
+                foto: "imagenes_personal/Albert_Antonio_Rios_Contreras.jpg",
                 descripcion: "",
                 
             },
